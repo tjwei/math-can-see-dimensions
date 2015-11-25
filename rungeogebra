@@ -1,0 +1,4 @@
+#!/bin/sh
+geogebra sincos.ggb > /dev/null 2>&1
+geogebra sec.ggb > /dev/null 2>&1
+geogebra tancot.ggb > /dev/null 2>&1
